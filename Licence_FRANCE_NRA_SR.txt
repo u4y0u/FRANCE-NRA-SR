@@ -1,0 +1,5 @@
+FRANCE NRA et SR  est un jeu de données extrait et adapté d'un jeu de données provenant d'OpenStreetMap.
+
+Sources:
+
+1)  jeu de données extrait de OpenStreetMap® - ensemble de données ouvertes, disponibles sous la licence libre Open Data Commons Open Database License (ODbL) accordée par la Fondation OpenStreetMap (OSMF).
