@@ -4,13 +4,7 @@ Emplacement des NRA ([Nœud de raccordement d'abonnés](https://fr.wikipedia.org
 
 Jeu de données extrait de OpenStreetMap® - ensemble de données ouvertes, disponibles sous la licence libre Open Data Commons Open Database License (ODbL) accordée par la Fondation OpenStreetMap (OSMF).
 
-FRANCE\_NRA\_SR.zip contient le fichier au format QGIS (ou QField sur Android) des zones arrière du point de mutualisation (ZAPM).
-
-\-> lien URL de téléchargement de la dernière version en fichier texte: (fichier > 50 Mo)
-
-
-
-Contenu actuel de l' archive .ZIP; 4 fichiers décrits ci-dessous:
+Fichiers décrits ci-dessous:
 
 _**NRA.geojson**_ et _**SR.geojson**_ (2 fichiers de données NRA et SR - dont les mises à jours peuvent être chargées directement via le 'master' GitHub)
 
