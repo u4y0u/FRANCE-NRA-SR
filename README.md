@@ -30,7 +30,7 @@ Ce projet utilise des fichiers geojson issus de OpenStreetMap®
 
 **Source:**
 
-voir Licence\_FRANCE NRA SR.txt ( )
+voir Licence\_FRANCE NRA SR.txt ( https://github.com/u4y0u/FRANCE-NRA-SR/blob/master/Licence_FRANCE_NRA_SR.txt )
 
 Contact via: [https://twitter.com/u4y0u](https://twitter.com/u4y0u)
 
