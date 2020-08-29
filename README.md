@@ -26,11 +26,11 @@ Ce projet utilise des fichiers geojson issus de OpenStreetMap®
 
 ## Version:
 
-##   .geojson du 28/08/2020
+##   .geojson du 29/08/2020
 
 **Source:**
 
-voir Licence\_ZAPM\_FRANCE.txt ( )
+voir Licence\_FRANCE NRA SR.txt ( )
 
 Contact via: [https://twitter.com/u4y0u](https://twitter.com/u4y0u)
 
