@@ -18,23 +18,19 @@ Projet QGIS [https://www.qgis.org/fr/site/](https://www.qgis.org/fr/site/) (Syst
 
 Aperçu:
 
-
+![](https://user-images.githubusercontent.com/54479065/91633357-f841cb00-e9e7-11ea-8b5b-db61ed889aa5.png)
 
 Ce projet utilise des fichiers geojson issus de OpenStreetMap®
 
-
-
 ## Version:
 
-##   .geojson du 29/08/2020
+## Projet et fichiers .geojson du 29/08/2020
 
 **Source:**
 
 voir Licence\_FRANCE NRA SR.txt ( https://github.com/u4y0u/FRANCE-NRA-SR/blob/master/Licence_FRANCE_NRA_SR.txt )
 
 Contact via: [https://twitter.com/u4y0u](https://twitter.com/u4y0u)
-
-
 
 Liens:
 
